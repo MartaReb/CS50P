@@ -4,9 +4,9 @@
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/Week%200/)
 - [Playback Speed](/Week%200/)
-- [Making Faces]((/Week%200/)
-- [Einstein]((/Week%200/)
-- [Tip Calculator]((/Week%200/)
+- [Making Faces](/Week%200/)
+- [Einstein](/Week%200/)
+- [Tip Calculator](/Week%200/)
 
   
 ### [Week 1 - Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
