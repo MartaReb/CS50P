@@ -1,12 +1,13 @@
-# CS50P - My solutions for CS50's Introduction to Programming with Python problem sets (2022)
+# CS50P
+- ## My solutions for CS50's Introduction to Programming with Python problem sets (2022)
 
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/Week%200/)
 - [Playback Speed](/Week%200/)
-- Making Faces
-- Einstein
-- Tip Calculator
+- [Making Faces]((/Week%200/)
+- [Einstein]((/Week%200/)
+- [Tip Calculator]((/Week%200/)
 
   
 ### [Week 1 - Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
