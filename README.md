@@ -9,9 +9,9 @@
 - [Tip Calculator](/Week%200/)
 
   
-### [Week 1 - Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- Deep Thought
-- Home Federal Savings Bank
+### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+- [Deep Thought](/Week%201/) 
+- [Home Federal Savings Bank](/Week%201/) 
 - File Extensions
 - Math Interpreter
 - Meal Time
