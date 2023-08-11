@@ -14,7 +14,7 @@
 - [Home Federal Savings Bank](/Week%201/) 
 - [File Extensions](/Week%201/) 
 - [Math Interpreter](/Week%201/) 
-- Meal Time
+- [Meal Time](/Week%201/) 
 
   
 ### [Week 2 - Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
