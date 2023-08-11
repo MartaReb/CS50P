@@ -2,19 +2,19 @@
 
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](/Week%200/)
-- [Playback Speed](/Week%200/)
-- [Making Faces](/Week%200/)
-- [Einstein](/Week%200/)
-- [Tip Calculator](/Week%200/)
+- [Indoor Voice](/Week%200/indoor.py)
+- [Playback Speed](/Week%200/playback.py)
+- [Making Faces](/Week%200/faces.py)
+- [Einstein](/Week%200/einstein.py)
+- [Tip Calculator](/Week%200/tip.py)
 
   
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- [Deep Thought](/Week%201/) 
-- [Home Federal Savings Bank](/Week%201/) 
-- [File Extensions](/Week%201/) 
-- [Math Interpreter](/Week%201/) 
-- [Meal Time](/Week%201/) 
+- [Deep Thought](/Week%201/deep.py) 
+- [Home Federal Savings Bank](/Week%201/bank.py) 
+- [File Extensions](/Week%201/extensions.py) 
+- [Math Interpreter](/Week%201/interpreter.py) 
+- [Meal Time](/Week%201/meal.py) 
 
   
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
