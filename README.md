@@ -19,7 +19,7 @@
   
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [camelCase](/Week%202/camel.py)
-- Coke Machine
+- [Coke Machine](/Week%202/coke.py)
 - Just setting up my twttr
 - Vanity Plates
 - Nutrition Facts
