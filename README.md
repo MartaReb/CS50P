@@ -21,7 +21,7 @@
 - [camelCase](/Week%202/camel.py)
 - [Coke Machine](/Week%202/coke.py)
 - [Just setting up my twttr](/Week%202/twttr.py)
-- Vanity Plates
+- [Vanity Plates](/Week%202/plates.py)
 - Nutrition Facts
 
   
