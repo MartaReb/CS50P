@@ -22,7 +22,7 @@
 - [Coke Machine](/Week%202/coke.py)
 - [Just setting up my twttr](/Week%202/twttr.py)
 - [Vanity Plates](/Week%202/plates.py)
-- Nutrition Facts
+- [Nutrition Facts](/Week%202/nutrition.py)
 
   
 ### [Week 3 - Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
