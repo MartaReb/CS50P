@@ -26,7 +26,7 @@
 
   
 ### [Week 3 - Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
-- Fuel Gauge
+- [Fuel Gauge](/Week%203/fuel.py)
 - Felipe's Taqueria
 - Grocery List
 - Outdated
