@@ -25,10 +25,10 @@
 - [Nutrition Facts](/Week%202/nutrition.py)
 
   
-### [Week 3]/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
+### [Week 3](/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
 - [Fuel Gauge](/Week%203/fuel.py)
 - [Felipe's Taqueria](/Week%203/taqueria.py)
-- Grocery List
+- [Grocery List](/Week%203/grocery.py)
 - Outdated
 
   
