@@ -32,8 +32,8 @@
 - [Outdated](/Week%203/outdated.py)
 
   
-### [Week 4 - Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-- Emojize
+### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
+- [Emojize](/Week%204/emojize.py)
 - Frank, Ian and Glen's Letters
 - Adieu, Adieu
 - Guessing Game
