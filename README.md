@@ -29,12 +29,12 @@
 - [Fuel Gauge](/Week%203/fuel.py)
 - [Felipe's Taqueria](/Week%203/taqueria.py)
 - [Grocery List](/Week%203/grocery.py)
-- Outdated
+- [Outdated](/Week%203/outdated.py)
 
   
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
 - [Emojize](/Week%204/emojize.py)
-- Frank, Ian and Glen's Letters
+- [Frank, Ian and Glen's Letters](/Week%204/figlet.py)
 - Adieu, Adieu
 - Guessing Game
 - Little Professor
