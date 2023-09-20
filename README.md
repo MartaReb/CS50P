@@ -35,7 +35,7 @@
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
 - [Emojize](/Week%204/emojize.py)
 - [Frank, Ian and Glen's Letters](/Week%204/figlet.py)
-- Adieu, Adieu
+- [Adieu, Adieu](/Week%204/adieu.py)
 - Guessing Game
 - Little Professor
 - Bitcoin Price Index
