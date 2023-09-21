@@ -36,7 +36,7 @@
 - [Emojize](/Week%204/emojize.py)
 - [Frank, Ian and Glen's Letters](/Week%204/figlet.py)
 - [Adieu, Adieu](/Week%204/adieu.py)
-- Guessing Game
+- [Guessing Game](/Week%204/game.py)
 - Little Professor
 - Bitcoin Price Index
 
