@@ -2,7 +2,7 @@ import random
 
 def main():
     level = get_level()
-    generate_integer(level)
+    game(level)
 
 def get_level():
     while True:
@@ -14,7 +14,7 @@ def get_level():
             if level in [1,2,3]:
                 return level
 
-def generate_integer(level):
+def game(level):
     if level == 1:
         start = 0
         end = 9
@@ -24,23 +24,26 @@ def generate_integer(level):
     else:
         start = 100
         end = 999
-    count = 0
+
+    score = 0
     for v in range(10):
-        x = random.randrange(start, end)
-        y = random.randrange(start, end)
+        x = random.randint(start,end)
+        y = random.randint(start,end)
         answer = x + y
-        print(f"{x} + {y} = ", end="")
-        try:
-            user_answer = int(input())
-        except ValueError:
-            print("EEE")
-        else:
-            if user_answer == answer:
-                count += 1
-            else:
-                print("EEE")
-    print(count)
-
-
-if __name__ == "__main__":
-    main()
+        wrong_answer = 0
+        while True:
+            print(f"{x} + {y} = ", end="")
+            try:
+                user_answer = int(input())
+                if user_answer == answer:
+                    score += 1
+                    break
+                else:
+                    print("EEE")
+                    wrong_answer += 1
+                    if wrong_answer == 3:
+                        print(answer)
+                        break
+            except ValueError:
+                    print("EEE")
+    print(score)
