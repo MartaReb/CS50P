@@ -38,7 +38,7 @@
 - [Adieu, Adieu](/Week%204/adieu.py)
 - [Guessing Game](/Week%204/game.py)
 - [Little Professor](/Week%204/professor.py)
-- Bitcoin Price Index
+- [Bitcoin Price Index](/Week%204/bitcoin.py)
 
   
 ### [Week 5 - Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
