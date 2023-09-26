@@ -42,7 +42,7 @@
 
   
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-- [Testing my twttr](/Week%204/twttr)
+- [Testing my twttr](/Week%205/twttr)
 - Back to the Bank
 - Re-requesting a Vanity Plate
 - Refueling
