@@ -1,4 +1,4 @@
-## My solutions for CS50's Introduction to Programming with Python problem sets (2022)
+## My solutions for CS50's Introduction to Programming with Python (2022)
 
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
@@ -41,8 +41,8 @@
 - [Bitcoin Price Index](/Week%204/bitcoin.py)
 
   
-### [Week 5 - Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-- Testing my twttr
+### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
+- [Testing my twttr](/Week%204/twttr)
 - Back to the Bank
 - Re-requesting a Vanity Plate
 - Refueling
