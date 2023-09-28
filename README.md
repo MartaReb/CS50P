@@ -44,7 +44,7 @@
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
 - [Testing my twttr](/Week%205/twttr)
 - [Back to the Bank](/Week%205/bank)
-- Re-requesting a Vanity Plate
+- [Re-requesting a Vanity Plate](/Week%205/plates)
 - Refueling
 
   
