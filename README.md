@@ -45,7 +45,7 @@
 - [Testing my twttr](/Week%205/twttr)
 - [Back to the Bank](/Week%205/bank)
 - [Re-requesting a Vanity Plate](/Week%205/plates)
-- Refueling
+- [Refueling](/Week%205/fuel)
 
   
 ### [Week 6 - File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
