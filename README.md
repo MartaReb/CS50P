@@ -48,8 +48,8 @@
 - [Refueling](/Week%205/fuel)
 
   
-### [Week 6 - File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-- Lines of Code
+### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
+- [Lines of Code](/Week%206/lines.py)
 - Pizza Py
 - Scourgify
 - CS50 P-Shirt
