@@ -51,7 +51,7 @@
 ### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
 - [Lines of Code](/Week%206/lines.py)
 - [Pizza Py](/Week%206/pizza)
-- Scourgify
+- [Scourgify](/Week%206/scourgify)
 - CS50 P-Shirt
 
   
