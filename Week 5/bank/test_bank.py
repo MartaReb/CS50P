@@ -1,9 +1,9 @@
 from bank import value
 
 def main():
-    test_word_hello()
-    test_starts_with_h()
-    test_other_word()
+    test_return_0()
+    test_return_20()
+    test_return_100()
 
 def test_return_0():
     assert value("hello") == 0
