@@ -57,7 +57,7 @@
   
 ### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS](/Week%207/numb3rs)
-- Watch on YouTube
+- [Watch on YouTube](/Week%207/watch.py)
 - Working 9 to 5
 - Regular, um, Expressions
 - Response Validation
