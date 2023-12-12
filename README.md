@@ -59,7 +59,7 @@
 - [NUMB3RS](/Week%207/numb3rs)
 - [Watch on YouTube](/Week%207/watch.py)
 - [Working 9 to 5](/Week%207/working)
-- Regular, um, Expressions
+- [Regular, um, Expressions](/Week%207/um)
 - Response Validation
 
 
