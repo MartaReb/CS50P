@@ -63,7 +63,7 @@
 - [Response Validation](/Week%207/response.py)
 
 
-### [Week 8 - Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
-- Seasons of Love
+### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
+- [Seasons of Love](/Week%208/seasons)
 - Cookie Jar
 - CS50 Shirtificate
