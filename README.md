@@ -65,5 +65,5 @@
 
 ### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
 - [Seasons of Love](/Week%208/seasons)
-- Cookie Jar
+- [Cookie Jar](/Week%208/jar)
 - CS50 Shirtificate
