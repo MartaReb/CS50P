@@ -9,7 +9,6 @@ class Jar:
         return self.size * "🍪"
 
     def deposit(self, n):
-        self.n = n
         self.size = self.size + n
         if self.size > 12:
             raise ValueError
