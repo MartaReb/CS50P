@@ -4,6 +4,8 @@ import pytest
 def test_init():
     jar = Jar()
     assert jar.capacity == 12
+    with pytest.raises(ValueError):
+        Jar(-1)
 
 def test_str():
     jar = Jar()
