@@ -70,4 +70,4 @@
 
 
 ### [Week 9](/Week%209/) - [Final Project](https://cs50.harvard.edu/python/2022/weeks/9/)
--[Final Project](/Week%209/final_project)
+- [Final Project](final_project)
