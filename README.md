@@ -67,3 +67,7 @@
 - [Seasons of Love](/Week%208/seasons)
 - [Cookie Jar](/Week%208/jar)
 - [CS50 Shirtificate](/Week%208/shirtificate)
+
+
+### [Week 9](/Week%209/) - [Final Project](https://cs50.harvard.edu/python/2022/weeks/9/)
+-[Final Project](/Week%209/final_project)
