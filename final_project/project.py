@@ -5,16 +5,17 @@ def main():
     print("Try to guess all the countries' capitals. You have 5 chances.")
     body = get_data_from_api()
     number = 5 
-    score = 0
     final_score = 0
     while number > 0:
         country_num = country_list(body)
         capital_name = capital_list(body, country_num)
         print("What is the capital? ")
         answer = input().strip()
-        outcome = user_answer(answer, capital_name, score)
-        if outcome == 1:
+        score = user_answer(answer, capital_name)
+        if score == 1:
             final_score += 1
+        print(f"Your point is: {final_score}/5")
+        print()
         number = number - 1
     
     print(f"Your final score is: {final_score}/5")
@@ -44,13 +45,13 @@ def capital_list(body, country_num):
             capital.append(c.get("capital"))
     return str(capital[country_num])[2:-2]
 
-def user_answer(answer, capital_name, score):
+def user_answer(answer, capital_name):
     if answer == capital_name:
-        score += 1
+        score = 1
         print(f"Yeah! That's right!")
     else:
-        print(f"The right answer is {capital_name}.Try again!")
-    print()
+        score = 0
+        print(f"The right answer is {capital_name}. Try again!")
     return score
 
 if __name__ == "__main__":
